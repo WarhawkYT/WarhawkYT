@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 
-<h3 align="center">- 📫 Reach me on Discord : Warhawk;#7849</h3>
+<h3 align="center">- 📫 Reach me on Discord: Warhawk#7849</h3>
 <h3 align="center">- 🔭 I’m currently learning <b>html, css, and javascript</b></h3>
 
 <hr>
